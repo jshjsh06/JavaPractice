@@ -9,7 +9,6 @@ public class Practice_Inheritance2 {
 		System.out.println(people.areaCircle(1));
 		System.out.println(student.areaCircle(1));
 	}
-
 }
 
 class People{
