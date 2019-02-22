@@ -2,6 +2,14 @@
 
 자바를 되짚어보면서 공부하기 위한 공간입니다.
 
+## collabolator 컴퓨터에 연동하는 방법
+- git init
+- git clone 깃주소
+- 반드시 clone한 곳으로 이동. `cd ~`
+- git pull origin master 으로 한번 더 확인
+- git add .
+- git commit -m "말말"
+- git push origin master
 
 
 ## Eclipse에서 새로운 Repo에 추가연동하는 방법
