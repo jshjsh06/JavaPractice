@@ -2,6 +2,9 @@
 
 자바를 되짚어보면서 공부하기 위한 공간입니다.
 
+## Git을 이용한 협업 워크플로우
+https://lhy.kr/git-workflow
+
 ## 한 컴퓨터에 2개 이상 계정으로 git 관리하는 방법
 https://meaownworld.tistory.com/78
 
