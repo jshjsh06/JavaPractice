@@ -2,6 +2,9 @@
 
 자바를 되짚어보면서 공부하기 위한 공간입니다.
 
+## 한 컴퓨터에 2개 이상 계정으로 git 관리하는 방법
+https://meaownworld.tistory.com/78
+
 ## collabolator 컴퓨터에 연동하는 방법
 - git init
 - git clone 깃주소
